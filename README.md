@@ -3,7 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=100000&color=58A6FF&center=false&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Montaha+Ahmed+Mohona.&repeat=false" alt="Hi 👋, I'm Montaha Ahmed Mohona." />
 </h1>
 
-
 <h3>CSE Undergraduate | Aspiring Software Engineer</h3>
 
 <p>
@@ -12,13 +11,15 @@
   problem-solving skills.
 </p>
 
+<br>
+
 ## 🌱 What I'm Learning
 
--  Data Structures & Algorithms (DSA)
--  Competitive Programming
--  Git & GitHub
+- Data Structures & Algorithms (DSA)
+- Competitive Programming
+- Git & GitHub
 
-
+<br>
 
 ## 👩‍💻 Technical Skills
 
@@ -27,7 +28,10 @@
 - **C++ Standard Library:** STL
 - **Problem-Solving:** Algorithmic Thinking
 
+<br>
+
 ## ⚙️ Tech Stack
+
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
