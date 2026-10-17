@@ -37,9 +37,10 @@ I enjoy solving problems, learning new technologies, and turning ideas into code
 </p>
 
 
-## ✨ Let's Connect & Grow
 
-<p align="left">
+## 🌐 Let's Connect & Grow
+
+<p align="center">
   <a href="https://www.linkedin.com/in/montaha-ahmed-mohona-80bb7b427" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
@@ -53,6 +54,7 @@ I enjoy solving problems, learning new technologies, and turning ideas into code
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
 
 ## 📊 GitHub Stats
 
