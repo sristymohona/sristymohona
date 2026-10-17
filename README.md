@@ -1,6 +1,6 @@
 
 <h1 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=300&pause=100000&color=58A6FF&center=false&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Montaha+Ahmed+Mohona.&repeat=false" alt="Hi👋, I'm Montaha Ahmed Mohona." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1000&pause=100000&color=58A6FF&center=false&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Montaha+Ahmed+Mohona.&repeat=false" alt="Hi 👋, I'm Montaha Ahmed Mohona." />
 </h1>
 
 
