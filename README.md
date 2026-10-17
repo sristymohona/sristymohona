@@ -31,6 +31,7 @@
 <br>
 
 
+
 ## ⚙️ Tech Stack
 
 <h3 align="center">Programming Languages</h3>
@@ -40,13 +41,15 @@
 
 <h3 align="center">Code Editor, Version Control & Design</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,canva" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 </p>
 
 <h3 align="center">Operating System & Shell</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows,bash" />
 </p>
+
 
 
 
