@@ -4,16 +4,16 @@
 </h1>
 
 
+<h2>CSE Undergraduate | Aspiring Software Engineer</h2>
 
+<h3 align="center">✨ About Me</h3>
 
-
-
-
-
-
-### CSE Undergraduate | Aspiring Software Engineer
-
-I enjoy solving problems, learning new technologies, and turning ideas into code. I'm currently strengthening my programming fundamentals and problem-solving skills.
+<p>
+  I enjoy solving problems, exploring new technologies, and turning ideas into code.
+  I'm currently strengthening my programming fundamentals and algorithmic
+  problem-solving skills.
+</p>
+.
 
 ## 🌱 What I'm Learning
 
