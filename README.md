@@ -10,6 +10,7 @@ I enjoy solving problems, learning new technologies, and turning ideas into code
 - 💡 Competitive Programming
 - 🔧 Git & GitHub
 
+
 ## 👩‍💻 Technical Skills
 
 - **Programming Languages:** C, C++
@@ -17,30 +18,26 @@ I enjoy solving problems, learning new technologies, and turning ideas into code
 - **C++ Standard Library:** STL
 - **Problem-Solving:** Algorithmic Thinking
 
-## 🛠️ Languages and Tools
+## ⚙️ Tech Stack
+
+**Programming Languages**
 
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://cplusplus.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=c,cpp" />
 </p>
 
-- **Code Editor:** Visual Studio Code
-- **Version Control:** Git, GitHub
-- **Operating System:** Windows
-- **Shell:** Bash
+**Code Editor & Version Control**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+</p>
+
+**Operating System & Shell**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=windows,bash" />
+</p>
+
 
 ## ✨ Let's Connect & Grow
 
