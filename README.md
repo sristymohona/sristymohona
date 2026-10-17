@@ -13,11 +13,12 @@
 
 <br>
 
-## 🌱 What I'm Learning
+## 🌱 What I'm Working On
 
-- Data Structures & Algorithms (DSA)
-- Competitive Programming
-- Git & GitHub
+- Strengthening my Data Structures & Algorithms (DSA) skills
+- Practicing Competitive Programming
+- Improving my problem-solving skills
+- Learning Git & GitHub for version control
 
 <br>
 
