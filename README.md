@@ -6,9 +6,9 @@ I enjoy solving problems, learning new technologies, and turning ideas into code
 
 ## 🌱 What I'm Learning
 
-- 📚 Data Structures & Algorithms (DSA)
-- 💡 Competitive Programming
-- 🔧 Git & GitHub
+-  Data Structures & Algorithms (DSA)
+-  Competitive Programming
+-  Git & GitHub
 
 
 
