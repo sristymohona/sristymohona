@@ -30,23 +30,24 @@
 
 <br>
 
-## ⚙️ Tech Stack
 
+## ⚙️ Tech Stack
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp" />
 </p>
 
-<h3 align="center">Code Editor & Version Control</h3>
+<h3 align="center">Code Editor, Version Control & Design</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,canva" />
 </p>
 
 <h3 align="center">Operating System & Shell</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows,bash" />
 </p>
+
 
 
 
