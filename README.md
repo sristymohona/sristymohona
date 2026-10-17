@@ -1,4 +1,10 @@
-# Hi, I'm Montaha Ahmed Mohona 👋
+
+<h1 align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=500&pause=250&color=58A6FF&center=false&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Montaha+Ahmed+Mohona" alt="Hi 👋, I'm Montaha Ahmed Mohona" />
+  </a>
+</h1>
+
 
 ### CSE Undergraduate | Aspiring Software Engineer
 
