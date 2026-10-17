@@ -11,6 +11,7 @@ I enjoy solving problems, learning new technologies, and turning ideas into code
 - 🔧 Git & GitHub
 
 
+
 ## 👩‍💻 Technical Skills
 
 - **Programming Languages:** C, C++
@@ -20,21 +21,18 @@ I enjoy solving problems, learning new technologies, and turning ideas into code
 
 ## ⚙️ Tech Stack
 
-**Programming Languages**
-
-<p align="left">
+<h3 align="center">Programming Languages</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp" />
 </p>
 
-**Code Editor & Version Control**
-
-<p align="left">
+<h3 align="center">Code Editor & Version Control</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git,github" />
 </p>
 
-**Operating System & Shell**
-
-<p align="left">
+<h3 align="center">Operating System & Shell</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=windows,bash" />
 </p>
 
