@@ -6,9 +6,8 @@
 <h3>CSE Undergraduate | Aspiring Software Engineer</h3>
 
 <p>
-  I enjoy solving problems, exploring new technologies, and turning ideas into code.
-  I'm currently strengthening my programming fundamentals and algorithmic
-  problem-solving skills.
+  I enjoy turning ideas into code, exploring new ideas, and building projects as I learn.
+  I’m always curious and open to learning something new.
 </p>
 
 <br>
