@@ -92,8 +92,10 @@
 
 ---
 
-<p align="center">
-  <i>“Simplicity is prerequisite for reliability.”</i>
-  <br><br>
-  <b>― Edsger W. Dijkstra</b>
-</p>
+<div align="center">
+
+###  “Simplicity is prerequisite for reliability.”
+
+**<sub>― Edsger W. Dijkstra</sub>**
+
+</div>
