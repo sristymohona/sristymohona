@@ -1,8 +1,4 @@
 
-<h1 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=100000&color=BFA2FF&center=false&vCenter=true&width=750&lines=%F0%9F%99%8B%E2%80%8D%E2%99%80%EF%B8%8F+Hi%2C+I'm+Montaha+Ahmed+Mohona%21&repeat=false" alt="🙋‍♀️ Hi, I'm Montaha Ahmed Mohona!" />
-</h1>
-
 
 <h1 align="left">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=100000&color=C4B5D9&center=false&vCenter=true&width=750&lines=%F0%9F%99%8B%E2%80%8D%E2%99%80%EF%B8%8F+Hi%2C+I'm+Montaha+Ahmed+Mohona%21&repeat=false" alt="🙋‍♀️ Hi, I'm Montaha Ahmed Mohona!" />
