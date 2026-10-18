@@ -64,9 +64,7 @@
   <img src="https://skillicons.dev/icons?i=windows,bash" />
 </p>
 
-
-
-
+<br>
 
 ## 🌐 Let's Connect & Grow
 
@@ -85,7 +83,7 @@
   </a>
 </p>
 
-
+<br>
 
 ## 📊 GitHub Stats
 
