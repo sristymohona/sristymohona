@@ -44,6 +44,12 @@ A C++-based examination system featuring role-based access, exam management, sco
 [![View Project](https://img.shields.io/badge/VIEW_PROJECT-C4B5FD?style=for-the-badge&logo=github&logoColor=101116)](https://github.com/sristymohona/Online-Examination-System)
 
 
+## 🗂️ Featured Projects
+
+- **[Online Examination System](https://github.com/sristymohona/Online-Examination-System)**  
+  A C++-based examination system featuring role-based access, exam management, score tracking, and leaderboard generation.  
+  **Tech Stack:** `C++` `OOP` `STL` `File Handling`
+
 
 
 ## ⚙️ Tech Stack
