@@ -92,10 +92,8 @@
 
 ---
 
-<div align="center">
-
-###  “Simplicity is prerequisite for reliability.”
-
-**<sub>― Edsger W. Dijkstra</sub>**
-
-</div>
+ <p align="center">
+  <img src="https://img.shields.io/badge/Simplicity_is_prerequisite_for_reliability.--ff79c6?style=for-the-badge&labelColor=282a36" alt="Simplicity is prerequisite for reliability." />
+  <br><br>
+  <img src="https://img.shields.io/badge/―_Edsger_W._Dijkstra-282a36?style=flat-square&labelColor=bd93f9" alt="Edsger W. Dijkstra" />
+</p>
