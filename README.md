@@ -1,6 +1,6 @@
 
 <h1 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=100000&color=58A6FF&center=false&vCenter=true&width=750&lines=%F0%9F%91%8B+Hi%2C+I'm+Montaha+Ahmed+Mohona%21&repeat=false" alt="👋 Hi, I'm Montaha Ahmed Mohona!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=100000&color=58A6FF&center=false&vCenter=true&width=750&lines=%F0%9F%91%8B+Hi%2C+I'm+Montaha+Ahmed+Mohona%21&repeat=false" alt="Hi 👋, I'm Montaha Ahmed Mohona!" />
 </h1>
 
 <h3>CSE Undergraduate | Aspiring Software Engineer</h3>
