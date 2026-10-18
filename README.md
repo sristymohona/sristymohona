@@ -34,18 +34,18 @@
 
 
 
+
 ## 🗂️ Featured Projects
 
-- ### [Online Examination System](https://github.com/sristymohona/Online-Examination-System)
+- **[Online Examination System](https://github.com/sristymohona/Online-Examination-System)**
 
   A C++-based examination system featuring role-based access, exam management, score tracking, and leaderboard generation.
 
   **Tech Stack:** `C++` `OOP` `STL` `File Handling`
 
 
-
-
 ## ⚙️ Tech Stack
+
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
