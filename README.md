@@ -74,19 +74,21 @@
 
 
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sristymohona&show_icons=true&bg_color=080B14&title_color=00E5FF&text_color=E6EDF3&icon_color=B388FF&border_color=242B3D&hide_border=false" alt="Montaha's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sristymohona&show_icons=true&bg_color=101116&title_color=C4B5D9&text_color=D4D4DE&icon_color=9A8CB8&border_color=292A35&hide_border=false" alt="Montaha's GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sristymohona&layout=compact&bg_color=080B14&title_color=00E5FF&text_color=E6EDF3&border_color=242B3D&hide_border=false" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sristymohona&layout=compact&bg_color=101116&title_color=C4B5D9&text_color=D4D4DE&border_color=292A35&hide_border=false" alt="Most Used Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sristymohona&background=080B14&ring=B388FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=B388FF&dates=8491A5&border=242B3D" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=sristymohona&background=101116&ring=9A8CB8&fire=C4B5D9&currStreakLabel=C4B5D9&sideLabels=B8B8C8&currStreakNum=E6E1EF&sideNums=D4D4DE&dates=777887&border=292A35" alt="GitHub Streak"/>
 </p>
+
 
 ---
 
