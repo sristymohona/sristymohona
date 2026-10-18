@@ -32,10 +32,6 @@
 
 
 
-
-
-
-
 ## 🗂️ Featured Projects
 
 - [**Online Examination System**](https://github.com/sristymohona/Online-Examination-System)
@@ -44,8 +40,10 @@
 
   **Tech Stack:** `C++` `OOP` `STL` `File Handling`
 
+<br>
 
 ## ⚙️ Tech Stack
+
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
