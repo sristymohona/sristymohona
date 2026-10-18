@@ -120,6 +120,21 @@
 </p>
 
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sristymohona&show_icons=true&bg_color=0B0B10&title_color=C4B5FD&text_color=DDD6E8&icon_color=A78BBA&border_color=292433&hide_border=false" alt="Montaha's GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sristymohona&layout=compact&bg_color=0B0B10&title_color=C4B5FD&text_color=DDD6E8&border_color=292433&hide_border=false" alt="Most Used Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sristymohona&background=0B0B10&ring=A78BBA&fire=C4B5FD&currStreakLabel=C4B5FD&sideLabels=B8A9C9&currStreakNum=EDE7F6&sideNums=DDD6E8&dates=82788F&border=292433" alt="GitHub Streak"/>
+</p>
+
+
 
 ---
 
