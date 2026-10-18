@@ -7,8 +7,8 @@
 
 
   <p>
-  I enjoy exploring ideas, solving problems, and bringing thoughts to life through code.<br>
-  I’m always curious to learn something new and explore different ways of thinking.<br>
+  I enjoy exploring ideas, solving problems, and bringing thoughts to life through code.
+  I’m always curious to learn something new and explore different ways of thinking.
   Learning as I go, building as I learn, and growing with every step. ✧
 </p>
 
