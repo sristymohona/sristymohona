@@ -6,8 +6,9 @@
 <h3>CSE Undergraduate | Aspiring Software Engineer</h3>
 
 <p>
-  I enjoy turning ideas into code, exploring new ideas, and building projects as I learn.
-  I’m always curious and open to learning something new.
+  I enjoy exploring ideas, solving problems, and bringing thoughts to life through code.<br>
+  I’m always curious to learn something new and explore different ways of thinking.<br>
+  Learning as I go, building as I learn, and growing with every step. ✧
 </p>
 
 <br>
