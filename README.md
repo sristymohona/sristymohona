@@ -84,24 +84,6 @@
 
 
 
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sristymohona&show_icons=true&bg_color=101116&title_color=C4B5D9&text_color=D4D4DE&icon_color=9A8CB8&border_color=292A35&hide_border=false" alt="Montaha's GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sristymohona&layout=compact&bg_color=101116&title_color=C4B5D9&text_color=D4D4DE&border_color=292A35&hide_border=false" alt="Most Used Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sristymohona&background=101116&ring=9A8CB8&fire=C4B5D9&currStreakLabel=C4B5D9&sideLabels=B8B8C8&currStreakNum=E6E1EF&sideNums=D4D4DE&dates=777887&border=292A35" alt="GitHub Streak"/>
-</p>
-
-
-
 ## 📊 GitHub Stats
 
 <p align="center">
