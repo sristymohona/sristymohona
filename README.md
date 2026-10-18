@@ -101,6 +101,30 @@
 </p>
 
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sristymohona&show_icons=true&rank_icon=github&include_all_commits=true&bg_color=101116&title_color=C4B5D9&text_color=D4D4DE&icon_color=9A8CB8&border_color=494158&border_radius=12"
+    alt="GitHub Stats"
+    width="49%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sristymohona&layout=compact&langs_count=6&bg_color=101116&title_color=C4B5D9&text_color=D4D4DE&border_color=494158&border_radius=12"
+    alt="Most Used Languages"
+    width="49%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=sristymohona&background=101116&ring=9A8CB8&fire=C4B5D9&currStreakLabel=C4B5D9&sideLabels=B8B8C8&currStreakNum=E6E1EF&sideNums=D4D4DE&dates=B8B8C8&border=494158&border_radius=12"
+    alt="GitHub Contribution Streak"
+    width="75%"
+  />
+</p>
+
+
 ---
 
  <div align="center">
