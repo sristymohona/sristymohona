@@ -111,3 +111,23 @@
 **<sub>― Edsger W. Dijkstra</sub>**
 
 </div>
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sristymohona&theme=react-dark&hide_border=true&area=true" width="100%" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/sristymohona?template=classic&base=header%2C%20activity%2C%20community&config.timezone=Asia%2FDhaka" alt="Metrics Graph" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sristymohona&background=08060D&ring=E2CCFF&fire=F0C8FF&currStreakLabel=E2CCFF&sideLabels=E2CCFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=D8C9EA&border=76539B" alt="GitHub Streak" />
+</p>
+
+<br>
+
