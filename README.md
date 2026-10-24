@@ -101,6 +101,18 @@
   <img src="https://streak-stats.demolab.com?user=sristymohona&type=total&count_private=true&mode=daily&background=08060D&ring=E2CCFF&fire=F0C8FF&currStreakLabel=E2CCFF&sideLabels=E2CCFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=D8C9EA&border=76539B&timezone=Asia%2FDhaka" alt="GitHub Streak"/>
 </p>
 
+<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sristymohona&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sristymohona&layout=compact&theme=dracula" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sristymohona&count_private=true&mode=daily&background=08060D&ring=E2CCFF&fire=F0C8FF&currStreakLabel=E2CCFF&sideLabels=E2CCFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=D8C9EA&border=76539B&timezone=Asia%2FDhaka&v=3" alt="GitHub Streak"/>
+</p>
 ---
 
  <div align="center">
