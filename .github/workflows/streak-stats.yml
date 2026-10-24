@@ -1,0 +1,15 @@
+name: Update Streak Stats
+
+on:
+  schedule:
+    - cron: '0 */1 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          user: sristymohona
