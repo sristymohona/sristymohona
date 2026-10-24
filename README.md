@@ -90,7 +90,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sristymohona&show_icons=true&rank_icon=github&count_private=true&include_all_commits=true&bg_color=08060D&title_color=E2CCFF&text_color=FFFFFF&icon_color=D0A8FF&border_color=76539B&hide_border=false" alt="Montaha's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sristymohona&show_icons=true&rank_icon=github&count_private=true&include_all_commits=true&cache_seconds=1800&bg_color=08060D&title_color=E2CCFF&text_color=FFFFFF&icon_color=D0A8FF&border_color=76539B&hide_border=false" alt="Montaha's GitHub Stats"/>
 </p>
 
 <p align="center">
