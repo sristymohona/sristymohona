@@ -97,8 +97,9 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sristymohona&background=08060D&ring=E2CCFF&fire=F0C8FF&currStreakLabel=E2CCFF&sideLabels=E2CCFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=D8C9EA&border=76539B" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=sristymohona&background=08060D&ring=E2CCFF&fire=F0C8FF&currStreakLabel=E2CCFF&sideLabels=E2CCFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=D8C9EA&border=76539B&timezone=Asia%2FDhaka" alt="GitHub Streak"/>
 </p>
+```
 
 
 
